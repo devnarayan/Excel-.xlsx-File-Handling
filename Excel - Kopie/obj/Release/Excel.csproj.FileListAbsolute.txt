@@ -1,0 +1,6 @@
+E:\Projects\Excel Work\Excel - Kopie\bin\Release\Excel.XML
+E:\Projects\Excel Work\Excel - Kopie\bin\Release\Excel.dll
+E:\Projects\Excel Work\Excel - Kopie\bin\Release\Excel.pdb
+E:\Projects\Excel Work\Excel - Kopie\obj\Release\Excel.dll
+E:\Projects\Excel Work\Excel - Kopie\obj\Release\Excel.pdb
+E:\Projects\Excel Work\Excel - Kopie\obj\Release\Excel.csprojResolveAssemblyReference.cache

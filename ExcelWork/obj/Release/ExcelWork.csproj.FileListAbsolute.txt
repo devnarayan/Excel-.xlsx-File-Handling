@@ -7,3 +7,6 @@ E:\Projects\Excel Work\ExcelWork\obj\Release\ExcelWork.exe
 E:\Projects\Excel Work\ExcelWork\obj\Release\ExcelWork.pdb
 E:\Projects\Excel Work\ExcelWork\obj\Release\ExcelWork.csprojResolveAssemblyReference.cache
 E:\Projects\Excel Work\ExcelWork\bin\Release\Excel.pdb
+E:\Projects\Excel Work\1. SourceCode\Excel-.xlsx-File-Handling\ExcelWork\bin\Release\ExcelWork.exe.config
+E:\Projects\Excel Work\1. SourceCode\Excel-.xlsx-File-Handling\ExcelWork\obj\Release\ExcelWork.exe
+E:\Projects\Excel Work\1. SourceCode\Excel-.xlsx-File-Handling\ExcelWork\obj\Release\ExcelWork.pdb
